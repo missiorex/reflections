@@ -2,5 +2,9 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is an intermediary area in the repository, before commiting to the repository. Changes wont be recorded unless committed. It is tracked but not committed. Working directory is the physical loation where all files reside.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+You might have edited multiple files which might have logically different changes.Staging area helps to commit only files need to be included in a particular commit.
+
 
 
