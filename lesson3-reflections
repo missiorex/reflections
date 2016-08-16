@@ -3,3 +3,8 @@ Reflections of lesson 3
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Others may be adding files to the remote. You have to make sure the pull wont break your piece of code.. manual is always safe.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks are clones at github
+clones, clones a repo locally 
+branch is a new branch for the same repository.
