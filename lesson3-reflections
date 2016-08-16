@@ -1,1 +1,5 @@
 Reflections of lesson 3
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Others may be adding files to the remote. You have to make sure the pull wont break your piece of code.. manual is always safe.
